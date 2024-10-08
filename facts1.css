@@ -19,32 +19,32 @@
     color: azure;
   }
   body{
-    background-color: rgb(2, 2, 23);
+    background-color: rgb(3, 3, 27);
   
   }
   .card1{
-    background-image: url(pic5page2.jpg);
+    background-image: url(bg1.jpg);
   }
   .card2{
-    background-image: url(pic2page2.jpg);
+    background-image: url(bg2.jpg);
   }
   .card3{
-    background-image: url(pic3page2.jpg);
+    background-image: url(bg3.jpg);
   }
   .card4{
-    background-image: url( pic8page2.jpeg);
+    background-image: url( bg4.jpeg);
   }
   .card5{
-    background-image: url(pic1page2.jpg);
+    background-image: url(bg5.jpg);
   }
   .card6{
-    background-image: url(pic7page2.jpeg);
+    background-image: url(bg6.jpeg);
   }
   .card7{
-    background-image: url(pic6page2.jpg);
+    background-image: url(bg7.jpg);
   }
   .card8{
-    background-image: url(pic4page2.jpg);
+    background-image: url(bg8.jpg);
   }
   .card:hover{
   transform: translateY(-10px);
