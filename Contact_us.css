@@ -4,7 +4,7 @@
 input[type=text]{
     width: 80%;
     padding: 12px; 
-    border: 1px solid #ccc; 
+    border: 1px solid #ccccccdc; 
     border-radius: 4px; 
     box-sizing: border-box; 
     margin-top: 6px; 
@@ -20,7 +20,7 @@ input[type=text]{
     margin-bottom: 16px;
   }
   input[type=submit] {
-    background-color: #f95e97;
+    background-color: #f7508d;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -28,7 +28,7 @@ input[type=text]{
     cursor: pointer;
   }
   input[type=submit]:hover {
-    background-color: #4cb8e6;
+    background-color: #39b9f0;
   }
 
   form {
